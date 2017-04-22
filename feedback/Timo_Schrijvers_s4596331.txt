@@ -1,0 +1,12 @@
+Auteur: Hendrik Werner
+Opdracht: 4
+Feedback gegeven door: Timo Schrijvers
+Het publiek is redelijk goed beschreven, omdat het artikel zeker moeilijke programeer termen gebruikt.
+Zonder voorkennis zou je deze tekst niet kunnen begrijpen. Het feit dat de auteur zegt dat het artikel is gericht op 'advanced functional programmers' kan ik niet zeer goed beoordelen.
+Het lijkt mij persoonlijk eerder dat een artikel als deze juist is geschreven voor functionele programeurs die nog niet per se gevorderd zijn, maar meer nieuwsgierig om meer van de programeel taal te leren.
+
+De boodschap is kort en duidelijk geschreven, maar mist het deel wat nu echt de boodschap is van de schrijver van de tekst.
+Wat de schrijver in de tekst heeft geschreven wordt heel duidelijk samengevat, maar de booschap die de schrijver wilt meegeven mist.
+
+De effectiviteit van de introductie is zeer duidelijk en geeft goed weer waarom de introductie effectief is.
+De effectiviteit van de samenvatting mist.
